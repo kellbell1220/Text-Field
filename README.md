@@ -4,7 +4,7 @@ Write a program that sets the horizontal alignment and column-size properties of
 
 ## Example Output
 
-![alt text](README.jpg)
+![alt text](README.JPG)
 
 ## Analysis Steps
 
